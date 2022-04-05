@@ -179,7 +179,7 @@
             cells[13].innerHTML="का0-"+con;
             //var tab=document.getElementById('tab');
             tab.style['display']="table";
-            xyz.style['background']="pink";
+            xyz.style['backgroundColor']="pink";
             xyz.style['border']="Red";
             document.getElementById('y').innerHTML="";
         }
@@ -201,7 +201,7 @@
             cells[13].innerHTML="का0-"+con;
             //var tab=document.getElementById('tab');
             tab.style['display']="table";
-            xyz.style['background']="#90EE90";
+            xyz.style['backgroundColor']="#90EE90";
             xyz.style['border']="orange";
             document.getElementById('y').innerHTML="";
         }
@@ -223,7 +223,7 @@
             cells[13].innerHTML="का0-"+con;
             //var tab=document.getElementById('tab');
             tab.style['display']="table";
-            xyz.style['background']="white";
+            xyz.style['backgroundColor']="white";
             xyz.style['border']="orange";
             document.getElementById('y').innerHTML="";
         }
